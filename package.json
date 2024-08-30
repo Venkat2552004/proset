@@ -7,7 +7,7 @@
 		"setup-project": "./index.js"
 	},
 	"scripts": {
-    "start" : "node index.js",
+		"start": "node index.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
@@ -15,7 +15,7 @@
 		"url": "git+https://github.com/Venkat2552004/prostart.git"
 	},
 	"keywords": [
-		"prost",
+		"prostart",
 		"venkat2552004"
 	],
 	"author": "Venkat2552004",
