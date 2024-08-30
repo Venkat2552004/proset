@@ -20,7 +20,7 @@ npm install -g prostart
 
 1. **Open Terminal** in the folder where you want to set up your project.
 
-2. **Run ProStart**:
+2. **Run this command**:
 
     ```bash
     setup-project
