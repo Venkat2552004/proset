@@ -1,0 +1,31 @@
+{
+	"name": "prostart",
+	"version": "1.0.0",
+	"description": "A CLI tool to automate project setup",
+	"main": "index.js",
+	"bin": {
+		"setup-project": "./index.js"
+	},
+	"scripts": {
+    "start" : "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Venkat2552004/prostart.git"
+	},
+	"keywords": [
+		"prostart",
+		"venkat2552004"
+	],
+	"author": "Venkat2552004",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Venkat2552004/prostart/issues"
+	},
+	"homepage": "https://github.com/Venkat2552004/prostart#readme",
+	"dependencies": {
+		"inquirer": "^8.2.6",
+		"shelljs": "^0.8.5"
+	}
+}
