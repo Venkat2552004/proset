@@ -23,7 +23,7 @@ npm install -g prostart
 2. **Run ProStart**:
 
     ```bash
-    prostart
+    setup-project
     ```
 
 3. **Follow the Prompts**:
