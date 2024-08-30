@@ -38,8 +38,6 @@ async function setupProject() {
 		},
 	]);
 
-	shell.cd("..");
-
 	if (answers.framework === "Vite") {
 		let command = `npm create vite@latest ${answers.appName} -- --template ${answers.template}`;
 
